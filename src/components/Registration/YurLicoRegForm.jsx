@@ -406,10 +406,6 @@ export class YurLicoRegForm extends React.Component {
                       </div>
                   </div>	
                   
-                  {/* <div class="center">
-                      <input type="submit" value=" Добавить еще одного туриста " class="btn2"/>   
-                  </div>   */}
-                  
                   <div class="row">
                       <div class="col-25">
                           <label for="fullName"> Полное наименование: </label>

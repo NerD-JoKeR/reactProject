@@ -402,10 +402,6 @@ export class FizLicoRegForm extends React.Component {
                         </div>
                     </div>	
                     
-                    {/* <div className="center">
-                        <input type="submit" value=" Добавить еще одного туриста " className="btn2"/>   
-                    </div>   */}
-                    
                     <div className="row">
                         <div className="col-50">
                             <label for="phoneNumber"> Ваш телефон:</label>
