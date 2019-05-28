@@ -1,0 +1,121 @@
+body {
+          font-family: 'PT Sans', sans-serif;
+          font-size: 1.2rem;
+          display: block;
+          width: 100%;
+        }
+		
+		input[type=date] {
+          font-family: 'PT Sans', sans-serif;
+          font-size: 1.2rem;
+          display: block;
+          padding: 0.7rem 1rem;
+          width: 90%;
+		  margin: 0px 20px 0px 20px;
+        }
+		
+		input[type=text] {
+          font-family: 'PT Sans', sans-serif;
+          font-size: 1.2rem;
+          display: block;
+          padding: 0.7rem 1rem;
+          width: 90%;
+		  margin: 0px 20px 0px 20px;	
+        }
+		
+		input[type=tel] {
+          font-family: 'PT Sans', sans-serif;
+          font-size: 1.2rem;
+          display: block;
+          padding: 0.7rem 1rem;
+          width: 90%;
+		  margin: 0px 20px 0px 20px;
+        }
+		
+		imput[name="men"] {
+          font-family: 'PT Sans', sans-serif;
+          font-size: 1.2rem;
+          display: block;
+          padding: 0.7rem 1rem;
+          width: 90%;
+		  margin: 0px 20px 0px 20px;
+		}
+        
+        label {
+          margin: 10px 20px 10px 20px;
+          display: block;
+        }
+        
+        .center{
+            text-align: center;
+        }
+        
+        .row {
+          display: -ms-flexbox; /* IE10 */
+          display: flex;
+          -ms-flex-wrap: wrap; /* IE10 */
+          flex-wrap: wrap;
+          margin: 10px -16px;
+        }
+        
+        .col-25 {
+          -ms-flex: 25%; /* IE10 */
+          flex: 25%;
+        }
+        
+        .col-50 {
+          -ms-flex: 46%; /* IE10 */
+          flex: 46%;
+        }
+        
+        .col-75 {
+          -ms-flex: 75%; /* IE10 */
+          flex: 75%;
+        }
+        
+        .col-25,
+        .col-50,
+        .col-75 {
+          padding: 0 16px;
+        }
+        
+        .container {
+          background-color: #f2f2f2;
+          padding: 5px 20px 15px 20px;
+          border: 1px solid lightgrey;
+          border-radius: 3px;
+        }
+        
+        .icon-container {
+          margin-bottom: 20px;
+          padding: 7px 0;
+          font-size: 24px;
+        }
+        
+        .btn {
+          background-color: #4CAF50;
+          color: white;
+          padding: 12px;
+          margin: 10px 10px;
+          border: none;
+          width: 75%;
+          border-radius: 3px;
+          cursor: pointer;
+          font-size: 24px;
+        }
+        
+        .btn2 {
+          background-color: #4CAF50;
+          color: white;
+          padding: 10px;
+          margin: 35px 10px;
+          border: none;
+          width: 60%;
+          border-radius: 3px;
+          cursor: pointer;
+          font-size: 18px;
+        }
+        
+        .btn:hover {
+          background-color: #45a049;
+        }
